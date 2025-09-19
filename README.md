@@ -34,8 +34,6 @@ streamlit run Prompt_Codex_Master.py
 
 > Full docs and demo GIF arriving this week.
 
-Screenshots & Demo GIF (placeholders)
-When ready, add images to docs/images/ and they will appear here.
 ## Screenshots & Demo GIF (placeholders)
 When ready, add images to docs/images/ and they will appear here.
 
